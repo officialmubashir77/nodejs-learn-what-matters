@@ -1,0 +1,17 @@
+{
+  "name": "backend---nodejs-learn-what-matters",
+  "version": "1.0.0",
+  "description": "Q --What is backend ?\r Ans -- Backend developer wo banda hy joki server and db program karta hy.",
+  "main": "import1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "figlet": "^1.6.0",
+    "one-liner-joke": "^1.2.2"
+  }
+}
